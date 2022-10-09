@@ -1,0 +1,6 @@
+Nom du projet : Livet Invaders
+Objectif : Recréer Space Invaders
+
+Entrée : Touches Clavier
+
+Sortie : Visuel graphique

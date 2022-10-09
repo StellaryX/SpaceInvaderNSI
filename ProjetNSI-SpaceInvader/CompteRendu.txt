@@ -1,0 +1,15 @@
+07/09/2022
+
+- Création de la fenêtre PyGame
+- Importation du fond d'écran
+- Importation du Vaisseau (Joueur)  class Vaisseau
+
+08/09/2022
+
+- Définition des collisions pour le vaisseau (limite de la fenêtresur l'axe des abscisse)
+- Permettre au vaisseau de tirer
+
+14/09/2022
+
+- Création de la class Ennemies
+- Création d'un des multiples ennemies
